@@ -1,6 +1,6 @@
 # Thunder
 <p align="center">
-  <img src="https://files.catbox.moe/7jt69h.jpg" width="500"/>
+  <img src="https://files.catbox.moe/f27q3j.jpg" width="500"/>
 </p>
 
   *DEPLOYING PARTS*
