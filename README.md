@@ -1,4 +1,4 @@
-## THUNDER
+  ## THUNDER
 <p align="center">
   <img src="https://files.catbox.moe/f27q3j.jpg" width="500"/>
 </p>
@@ -38,7 +38,6 @@
 <div align="center">
   <img src="https://github.com/JawadYT36/KHAN-MD/blob/main/assets/techwave.gif?raw=true" width="100%"/>
 </div>
-
-## *OBED WEBSITES*
-[![Obed's is her Here](https://img.shields.io/static/v1?label=ObedTech%20ID&messages=website&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://thunder-pair-generator.onrender.com/pair) 
+  ## *OBED WEBSITES*
+[![Obed's is her Here](https://img.shields.io/static/v1?label=ObedTech%20ID&messages=website&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://thunder-pair-generator.onrender.com) 
 
