@@ -3,6 +3,11 @@
   <img src="https://files.catbox.moe/f27q3j.jpg" width="500"/>
 </p>
 
+## *GET SESSION*
+</a></p>
+- <a href="https://sociabuzz.com/frediezra255" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=Get session&logoColor=black" width="240" height="39px" alt="Sociabuzz"></a>
+
+
   *DEPLOYING PARTS*
 <div align="center">
   <table>
