@@ -1,4 +1,4 @@
-# Thunder
+## THUNDER
 <p align="center">
   <img src="https://files.catbox.moe/f27q3j.jpg" width="500"/>
 </p>
