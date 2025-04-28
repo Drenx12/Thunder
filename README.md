@@ -1,6 +1,9 @@
 # Thunder
+<p align="center">
+  <img src="https://files.catbox.moe/7jt69h.jpg" width="500"/>
+</p>
 
-
+  *DEPLOYING PARTS*
 <div align="center">
   <table>
     <tr>
