@@ -4,8 +4,7 @@
 </p>
 
 ## *GET SESSION*
-</a></p>
-- <a href="https://sociabuzz.com/frediezra255" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=Get session&logoColor=black" width="240" height="39px" alt="Sociabuzz"></a>
+(https://img.shields.io/static/v1?label=Session%20ID&message=Generate&color=FF4500&style=for-the-badge&logo=firefox&logoColor=orange)](https://topu-scanner.onrender.com/pair)
 
 
   *DEPLOYING PARTS*
